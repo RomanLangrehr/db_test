@@ -1,3 +1,5 @@
+import sys
+sys.path.append('./site_scons/conf')
 import MSVCSetup
 import SDLSetup
 import CUDASetup
